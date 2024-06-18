@@ -16,10 +16,11 @@ nav {
     justify-content: space-around;
     align-items: center;
     padding: 20px 0px !important;
-    position: sticky;
+    position: fixed;
     background-color: #000000;
     z-index: 1;
     top: 0;
+    width:100%;
 }
 
 .links>ul {
